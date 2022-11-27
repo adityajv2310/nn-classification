@@ -1,4 +1,7 @@
-# Developing a Neural Network Classification Model
+### EXP NO: 02
+### DATE: 08.09.2022
+
+# <p align = "center"> Developing a Neural Network Classification Model
 
 ## AIM:
 
@@ -46,6 +49,11 @@ Predicting the model through classification report, confusion matrix.
 Predict the new sample data.
 
 ## PROGRAM:
+
+```
+Developed By: Aditya JV
+Register Number: 212220230002
+```
 
 ```Python
 import pandas as pd
